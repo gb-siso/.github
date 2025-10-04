@@ -24,3 +24,7 @@ siso는 국회의원의 발의안, 뉴스 등 활동을 확인하고, 평가를 
 - 발의안은 perplexity api 를 호출해 내용 요약
 - jenkins 를 통한 ci/cd 자동화 (main 브랜치 push 시 자동 빌드/배포)
 - 카카오, 네이버 로그인 api 로 각각 로그인 기능 제공
+
+# 팀원
+- FRONTEND [조다한](https://github.com/orgs/gb-siso/people/JODAHANI)
+- BACKEND [장지담](https://github.com/jd99iam)
